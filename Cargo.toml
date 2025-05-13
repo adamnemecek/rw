@@ -9,7 +9,7 @@ repository = "https://github.com/jridgewell/rw"
 version = "1.0.1"
 
 [dependencies]
-getopts = "0.2.18"
+clap = { version = "4.5.38", features = ["derive"] }
 
 [profile.release]
 lto = true

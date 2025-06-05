@@ -135,7 +135,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "rw"
+name = "slurp"
 version = "1.0.1"
 dependencies = [
  "clap",
